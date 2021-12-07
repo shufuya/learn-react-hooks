@@ -1,0 +1,9 @@
+/* .container {} */
+
+.container .el {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: 0 auto;
+    margin-top: 20px;
+}
